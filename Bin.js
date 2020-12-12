@@ -1,6 +1,6 @@
 class Bin extends BaseClass{
 constructor(x,y,width,height){
-    super(x,y,200,200);
+    super(x,y,20,200);
     this.image = loadImage("garbage.png");
      }
   display(){
